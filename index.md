@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+个人简历
+联系方式
+手机：xxxxxxxxxxx
+Email：xxx@gmail.com
+个人信息
+姓名/性别/出生年份
+本科/XX大学/软件工程 2010-2014
+工作年限：x年
+技术博客：http://brick713.github.io
+Github：http://github.com/brick713
+工作经历
+XXX公司（xxxx.x ~ 至今）
+项目描述:
+该项目主要是XXXX。
+实现技术:
 
-You can use the [editor on GitHub](https://github.com/Julyscars/xun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+职责描述:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+其他项目
+xxxx项目：该项目是XXXX，使用XXX技术，完成XXX功能
+XXX公司（xxxx.x ~ xxxx.x）
+项目描述:
 
-### Markdown
+实现技术:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+职责描述:
 
-```markdown
-Syntax highlighted code block
+2. 3.
+开源贡献
+XX技术文档翻译
+XX源码补丁
+XX开源项目
+技术文章
+《银河系漫游指南》
+技能清单
+1.扒蒜 8 级认证 2.皮皮虾脱壳 4 级证
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Julyscars/xun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+自我评价
+特别能吃
+特别能睡
+特别能干
+致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事 our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
